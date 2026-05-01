@@ -5,3 +5,6 @@ scikit-learn
 joblib
 openpyxl
 plotly
+matplotlib
+seaborn
+xgboost
